@@ -1,2 +1,2 @@
-# SMARTKIDS-COMPETITION-EDUCATION
-Website SMARTKIDS COMPETITION Lomba Matematika dan Computational Coding
+# BRAWIJAYA-COMPETITION-EDUCATION
+Website BRAWIJAYA COMPETITION Lomba Matematika dan Computational Coding
